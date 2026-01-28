@@ -106,6 +106,6 @@ cd CaesarCipher
 
 3. Run the script using Python 3:
 ```bash
-python3 caesar_cipher.py
+python3 main.py
 ```
 
