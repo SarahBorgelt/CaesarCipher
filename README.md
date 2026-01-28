@@ -40,7 +40,7 @@ This version was extended from the original FreeCodeCamp project to include:
 
 1. Run the script in your terminal:
 ```bash
-     python3 caesar_cipher.py
+     python3 main.py
 ```
 
 2. When prompted, type whether you want to encrypt or decrypt.
@@ -96,7 +96,7 @@ Please enter the shift:
 1. Clone this repository:
 
 ```bash 
-git clone https://github.com/yourusername/CaesarCipher.git
+git clone https://github.com/SarahBorgelt/CaesarCipher.git
 ```
 
 2. Navigate to the project folder:
